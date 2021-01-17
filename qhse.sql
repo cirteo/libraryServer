@@ -640,7 +640,7 @@ CREATE TABLE IF NOT EXISTS `student` (
 -- 正在导出表  library.student 的数据：6 rows
 /*!40000 ALTER TABLE `student` DISABLE KEYS */;
 INSERT INTO `student` (`stuNum`, `stuName`, `stuPwd`, `stuScore`, `stuSeated`, `stuState`) VALUES
-	('201831062527', '杨凌', '20000214YL', -1, '0', '空'),
+	('201831062527', '杨三', '20000214', -1, '0', '空'),
 	('201831062526', '琪亚娜', '123456', 3, '0', '空'),
 	('201831062525', '希儿', '123456', 3, '0', '空'),
 	('201831062524', '芽衣', '123456', 3, '0', '空'),
